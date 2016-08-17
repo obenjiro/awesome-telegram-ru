@@ -31,6 +31,10 @@
 
   Общаемся на темы, посвященным iOS-разработке, Objective-C, Swift, SDK, Cocoa и т.д.
   
+- https://telegram.me/android_ru
+  
+  Общаемся на темы, посвященным Android-разработке, SDK, Kotlin, Realm и т.д.
+  
 - https://telegram.me/wp_ru
 
   Общаемся на темы, посвященные разработке на Windows 10 ( mobile ), Xamarin и т.д.
