@@ -1,75 +1,83 @@
-# Awesome Telegram RU
-Список крутых телеграм чатов по программированию, DevOps, QA и многому другому. Все группы модерируются и в них запрещен HH ( поиск вакансий и поиск работников ). Для HH есть отдельный набор групп ( указаны внизу списка )
+Awesome Telegram RU
+===================
 
-Рекомендуем сразу отключить уведомления, чтобы пребывание в этих группах было комфортным.
+Список русскоговорящих групп в Telegram, посвященных разработке и связанным процессам, таким как  DevOps, тестирование и QA, управление разработкой и т.д. Все группы модерируются, в них запрещена реклама и публикация вакансий (для этого есть отдельные группы - они указаны в конце списка). Не приветствует флуд, но уважается профессиональная поведение. 
 
-## Программирование
+Рекомендуем сразу отключить уведомления, чтобы пребывание в этих группах было полезным и комфортным.
 
-- https://telegram.me/angular2
+## JavaScript-разработка
 
-  Обсуждаем темы, посвящённые Angular 2 и его экосистемы, включая TypeScript и NativeScript.
++ https://telegram.me/angular2
 
-- https://telegram.me/react_js
+  Здесь мы обсуждаем темы, посвящённые Angular 2 и его экосистемы, включая TypeScript и NativeScript.
+
++ https://telegram.me/react_js
 
   Общаемся на темы, посвященным React, Redux и Relay.
 
-- https://telegram.me/angular_js
++ https://telegram.me/angular_js
 
   Общаемся и обсуждаем темы, посвященные Angular 1.x и экосистеме.
   
-- https://telegram.me/frp_ru
++ https://telegram.me/frp_ru
 
   Общаемся на темы, посвященные функционально-реактивным подходам в JS/TS. RxJS, Cycle.js, ramda, etc.
 
-- https://telegram.me/nodejs_ru
++ https://telegram.me/nodejs_ru
   
   Общаемся на темы, посвященные Node.js, микросервисам, профайлингу и оптимизации.
 
 ## Mобильная разработка
 
-- https://telegram.me/ios_ru
++ https://telegram.me/ios_ru
 
   Общаемся на темы, посвященным iOS-разработке, Objective-C, Swift, SDK, Cocoa и т.д.
   
-- https://telegram.me/android_ru
++ https://telegram.me/android_ru
   
   Общаемся на темы, посвященным Android-разработке, SDK, Kotlin, Realm и т.д.
   
-- https://telegram.me/wp_ru
++ https://telegram.me/wp_ru
 
   Общаемся на темы, посвященные разработке на Windows 10 ( mobile ), Xamarin и т.д.
 
-- https://telegram.me/reactnative_ru
++ https://telegram.me/reactnative_ru
   
   Общаемся и обсуждаем темы, посвященные React Native.
 
 ## DevOps
 
-- https://telegram.me/devops_ru
++ https://telegram.me/devops_ru
 
   Общаемся и обсуждаем темы, посвященные DevOps, Docker, Mesos, DC/OS, CoreOS и Clouds.
 
-- https://telegram.me/docker_ru
++ https://telegram.me/docker_ru
   
   Обсуждаем вопросы, посвященные Docker, Docker Swarm и всей экосистеме. Обмениваем идеями, новостями и решаем пробемы.
 
-- https://telegram.me/coreos_ru
++ https://telegram.me/coreos_ru
 
   Общаемся на темы CoreOS, Rkt, etcd, Fleet, Clair, Flannel и экосистемы. Новости, идеи, вопросы, решения.
 
-- https://telegram.me/kubernetes_ru
++ https://telegram.me/kubernetes_ru
 
   Общаемся на темы, посвященные Kubernetes (он же K8s), его конфигурации и обновлению. Решаем проблемы, обсуждаем новости и пр.
 
-- https://telegram.me/mesos_ru
++ https://telegram.me/mesos_ru
 
   Общаемся на темы, связанные с Apache Mesos, Mesosphere, Marathon, Chronos и всей экосистемы. Идеи. Новости. Решения.
   
-## QA
+## Тестирование и QA
 
-- https://telegram.me/qa_ru
++ https://telegram.me/qa_ru
 
   Общаемся на темы, посвященные всем видам тестирования, его автоматизации и т.д.
+
+## Управление проектами и продуктами
+
++ https://telegram.me/agile_ru
+
+  Здесь мы общаемся на темы, посвященные Agile, Scrum, Lean, XP, Kanban, инструментам повышения эффективности. Идеи. Новости. Анонсы.
 
 ## Вакансии и поиск работы
 
