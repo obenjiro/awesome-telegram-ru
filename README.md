@@ -16,6 +16,10 @@
 - https://telegram.me/angular_js
 
   Общаемся и обсуждаем темы, посвященные Angular 1.x и экосистеме.
+  
+- https://telegram.me/frp_ru
+
+  Общаемся на темы, посвященные функционально-реактивным подходам в JS/TS. RxJS, Cycle.js, ramda, etc.
 
 - https://telegram.me/nodejs_ru
   
