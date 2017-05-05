@@ -67,9 +67,14 @@ Awesome Telegram RU
 
   Общаемся на темы, связанные с Apache Mesos, Mesosphere, Marathon, Chronos и всей экосистемы. Идеи. Новости. Решения.
 
++ https://telegram.me/git_ru
+
+  Обсуждаем git, его фичи, хаки, надстройки и экосистему.
+
 + https://telegram.me/macos_ru
 
   Обсуждается разработка, тестирование, улучшение и кастомизация macOS
+
 
 ## Тестирование и QA
 
