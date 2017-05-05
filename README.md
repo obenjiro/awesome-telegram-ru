@@ -27,6 +27,10 @@ Awesome Telegram RU
   
   Общаемся на темы, посвященные Node.js, микросервисам, профайлингу и оптимизации.
 
++ https://telegram.me/js_ru
+
+  Общаемся на темы, связанные с JavaScript и его экосистемой
+
 ## Mобильная разработка
 
 + https://telegram.me/ios_ru
