@@ -31,6 +31,10 @@ Awesome Telegram RU
 
   Обсуждения webpack 1/2, лоадеров, плагинов и сборок
 
++ https://telegram.me/electron_ru
+
+  Общаемся на темы, посвященные Electron.js, профайлингу, оптимизации, сборке и доставке версий.
+
 ## Mобильная разработка
 
 + https://telegram.me/ios_ru
@@ -70,7 +74,16 @@ Awesome Telegram RU
 + https://telegram.me/mesos_ru
 
   Общаемся на темы, связанные с Apache Mesos, Mesosphere, Marathon, Chronos и всей экосистемы. Идеи. Новости. Решения.
-  
+
++ https://telegram.me/git_ru
+
+  Обсуждаем git, его фичи, хаки, надстройки и экосистему.
+
++ https://telegram.me/macos_ru
+
+  Обсуждается разработка, тестирование, улучшение и кастомизация macOS
+
+
 ## Тестирование и QA
 
 + https://telegram.me/qa_ru
