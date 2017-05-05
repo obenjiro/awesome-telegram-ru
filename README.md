@@ -71,6 +71,11 @@ Awesome Telegram RU
 
   Обсуждаем git, его фичи, хаки, надстройки и экосистему.
 
++ https://telegram.me/macos_ru
+
+  Обсуждается разработка, тестирование, улучшение и кастомизация macOS
+
+
 ## Тестирование и QA
 
 + https://telegram.me/qa_ru
