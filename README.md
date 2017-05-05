@@ -66,7 +66,11 @@ Awesome Telegram RU
 + https://telegram.me/mesos_ru
 
   Общаемся на темы, связанные с Apache Mesos, Mesosphere, Marathon, Chronos и всей экосистемы. Идеи. Новости. Решения.
-  
+
++ https://telegram.me/macos_ru
+
+  Обсуждается разработка, тестирование, улучшение и кастомизация macOS
+
 ## Тестирование и QA
 
 + https://telegram.me/qa_ru
