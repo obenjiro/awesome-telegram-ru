@@ -7,9 +7,9 @@ Awesome Telegram RU
 
 ## JavaScript-разработка
 
-+ https://telegram.me/angular2
++ https://telegram.me/angular_ru
 
-  Здесь мы обсуждаем темы, посвящённые Angular 2 и его экосистемы, включая TypeScript и NativeScript.
+  Здесь мы обсуждаем темы, посвящённые Angular (4+) и его экосистемы, включая TypeScript и NativeScript.
 
 + https://telegram.me/react_js
 
