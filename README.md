@@ -103,6 +103,24 @@ Awesome Telegram RU
 + https://telegram.me/agile_ru
 
   Здесь мы общаемся на темы, посвященные Agile, Scrum, Lean, XP, Kanban, инструментам повышения эффективности. Идеи. Новости. Анонсы.
+  
+## GameDev
+
++ https://t.me/UnrealEngine4
+
+  Чат разработчиков игр на Unreal Engine 4
+  
++ https://t.me/gamedevtalk
+
+  Обсуждение всех возможных аспектов разработки игр
+  
++ https://t.me/gameanalysts
+
+  Ламповый чатик про аналитику в игровой индустрии
+  
++ https://t.me/sourceengine
+
+  Разработка и обсуждение игр и модов на Source Engine 1,2
 
 ## Вакансии и поиск работы
 
