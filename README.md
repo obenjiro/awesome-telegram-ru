@@ -9,7 +9,7 @@ Awesome Telegram RU
 
 + https://telegram.me/angular_ru
 
-  Здесь мы обсуждаем темы, посвящённые Angular (4+) и его экосистемы, включая TypeScript и NativeScript.
+  Здесь мы обсуждаем темы, посвящённые Angular (5+) и его экосистемы, включая TypeScript и NativeScript.
 
 + https://telegram.me/react_js
 
@@ -42,6 +42,10 @@ Awesome Telegram RU
 + https://telegram.me/vuejs_ru
 
   Общаемся на темы, посвященные Vue.js, его экосистеме и разработке приложений. 
+  
++ https://telegram.me/angular_universal_ru
+
+  Здесь мы обсуждаем темы, посвящённые angular universal.
 
 ## Mобильная разработка
 
