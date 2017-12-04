@@ -26,6 +26,9 @@ Awesome Telegram RU
 + https://telegram.me/nodejs_ru
   
   Общаемся на темы, посвященные Node.js, микросервисам, профайлингу и оптимизации.
+  
++ https://t.me/nest_ru
+  Сообщество Nest.js
 
 + https://telegram.me/js_ru
 
