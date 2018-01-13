@@ -5,6 +5,12 @@ Awesome Telegram RU
 
 Рекомендуем сразу отключить уведомления, чтобы пребывание в этих группах было полезным и комфортным.
 
+## HTML, CSS-верстка
+
++ https://telegram.me/css_ru
+
+  Здесь мы обсуждаем темы, посвящённые CSS.
+
 ## JavaScript-разработка
 
 + https://telegram.me/angular_ru
