@@ -30,10 +30,6 @@ Awesome Telegram RU
 + https://t.me/nest_ru
 
   Сообщество Nest.js
-  
-+ https://t.me/featherjs
-
-  Сообщество Feathers.js.
 
 + https://telegram.me/js_ru
 
