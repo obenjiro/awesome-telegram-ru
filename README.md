@@ -90,6 +90,8 @@ Awesome Telegram RU
 + https://t.me/mesos_ru
 
   Общаемся на темы, связанные с Apache Mesos, Mesosphere, Marathon, Chronos и всей экосистемы. Идеи. Новости. Решения.
+  
+## Desktop
 
 + https://t.me/git_ru
 
