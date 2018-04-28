@@ -98,6 +98,10 @@ Awesome Telegram RU
 + https://t.me/macos_ru
 
   Обсуждается разработка, тестирование, улучшение и кастомизация macOS
+  
++ https://t.me/macdev_ru
+  
+  Обсуждаем сугубо разрабоку под MacOS
 
 
 ## Тестирование и QA
