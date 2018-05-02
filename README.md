@@ -101,7 +101,7 @@ Awesome Telegram RU
   
 + https://t.me/macdev_ru
   
-  Обсуждаем сугубо разрабоку под MacOS
+  Обсуждаем разрабоку под macOS
 
 
 ## Тестирование и QA
