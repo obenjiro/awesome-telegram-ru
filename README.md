@@ -9,7 +9,15 @@ Awesome Telegram RU
 
 + https://t.me/angular_ru
 
-  Здесь мы обсуждаем темы, посвящённые Angular (5+) и его экосистемы, включая TypeScript и NativeScript.
+  Здесь мы обсуждаем темы, посвящённые Angular (6+) и его экосистемы, включая TypeScript и NativeScript.
+  
++ https://t.me/ts_ru
+
+  Общаемся на темы TypeScript и статической типизации.
+  
++ https://t.me/redux_ru
+
+  Чат по redux.js и другим менеджерам состояния.
 
 + https://t.me/react_js
 
