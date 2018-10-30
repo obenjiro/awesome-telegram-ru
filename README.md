@@ -37,6 +37,10 @@ Awesome Telegram RU
   
 + https://t.me/nest_ru
 
+  Сообщество Nest.js https://docs.nestjs.com. Общаемся на темы Nest, его экосистемы, Angular, TypeScript, и т.д.
+  
++ https://t.me/nest_ru
+
   Сообщество Nest.js
 
 + https://telegram.me/js_ru
