@@ -58,6 +58,16 @@ Awesome Telegram RU
 + https://t.me/angular_universal_ru
 
   Здесь мы обсуждаем темы, посвящённые angular universal.
+  
+## HTML/CSS
+
++ https://t.me/moscowcss_chat
+
+  Чатик митапа moscowcss
+  
++ https://t.me/moscowcss
+
+  Канал о регулярных встречах по фронтенду в Москве.
 
 ## Mобильная разработка
 
