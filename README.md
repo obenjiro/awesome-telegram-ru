@@ -109,6 +109,10 @@ Awesome Telegram RU
 
   Общаемся на темы, связанные с Apache Mesos, Mesosphere, Marathon, Chronos и всей экосистемы. Идеи. Новости. Решения.
   
++ https://t.me/devops4ua
+
+  Интересные статьи, новости решения посвященные DevOps в телеграм канале 
+  
 ## Desktop
 
 + https://t.me/git_ru
